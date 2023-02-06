@@ -1,6 +1,6 @@
 # ChillPills-App
 
-This is ChillPills, an application developed for Orbital 2022. The project video can be accessed with this link: https://www.youtube.com/watch?v=Bb3xZi80Q2s
+This is ChillPills, an application developed for Orbital 2022 by Tan Wan Lin and Poobalan Aatmika Lakshmi. The project video can be accessed with this link: https://www.youtube.com/watch?v=Bb3xZi80Q2s
 
 Here is the link to our project's README, which contains all the features and documentation: https://docs.google.com/document/d/1nIkSS0CWJmUEac3qgL4dinfBj38zUZ25ltajOuDKkec/edit?usp=sharing
 
